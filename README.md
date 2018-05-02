@@ -1,8 +1,9 @@
 # dive-into-astropy
-A coarse introduction on how to using Astropy to release your hands when do astrophysics and astronomy research
+A coarse introduction on how to using Astropy to release your hands when doing astrophysics and astronomy research
 
 # How to use
 In order to run all the cells in this notebook, you need have the following packages installed, 
+
 ```text
 jupyter >= 1.0.0
 astropy >=3.0.1
@@ -17,4 +18,14 @@ APLpy >= 1.1.1
 conda create -n astropy python=3
 ```
 
-and then install the above packages using c`onda` or `pip`
+and then install the above packages using `conda` or `pip`
+
+```shell
+pip install -r requirements.txt
+```
+
+After all the requirements installed, you can run the jupyter notebook in this directory.
+
+```
+jupyter notebook
+```
