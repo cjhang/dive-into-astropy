@@ -15,17 +15,18 @@ APLpy >= 1.1.1
 `conda` is recommended to set up the environment
 
 ```shell
-conda create -n astropy python=3
+$ conda create -n astropy python=3
+$ source activate astropy
 ```
 
 and then install the above packages using `conda` or `pip`
 
 ```shell
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 After all the requirements installed, you can run the jupyter notebook in this directory.
 
-```
-jupyter notebook
+```shell
+$ jupyter notebook
 ```
