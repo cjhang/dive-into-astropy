@@ -21,9 +21,6 @@ $ source activate astropy
 
 then installing the above packages using `conda` or `pip`
 
-```shell
-$ pip install -r requirements.txt
-```
 
 After all the requirements installed, you can run the jupyter notebook in this directory:
 
