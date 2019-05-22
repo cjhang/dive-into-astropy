@@ -1,0 +1,13 @@
+APLpy>=1.1.1
+astropy>=3.0
+astroquery==0.3.7
+jupyter>=1.0.0
+matplotlib>=2.2.2
+montage-wrapper>=0.9.9
+notebook>=5.4.1
+numpy>=1.14.2
+pandocfilters==1.4.2
+pexpect==4.5.0
+pickleshare==0.7.4
+Pillow>=5.1.0
+scipy>=1.0
